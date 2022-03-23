@@ -1,6 +1,8 @@
 # YelpCamp
 A final guided project from the Udemy course - The Web Developer Bootcamp. The project allows user to register and login to create, read, update, and delete campgrounds, and allow user to add comments and ratings to each campground.
 
+The website is hosted on Heroku. You may visit the page with the URL: https://intense-retreat-48380.herokuapp.com/.
+
 The project leverages the following technologies:
 
 ## Programming Languages
@@ -12,12 +14,12 @@ The project leverages the following technologies:
 
 ## Database
 
-- **MongoDB** - Store and manage campground, user, and login session information
+- **MongoDB** - Storage and management of campgrounds, users, and login sessions information
 - **Cloudinary** - Storage of images
 
 ## Tools & Frameworks
 
-- **Bootstrap 5.0** - Standardize frontend display
+- **Bootstrap 5.0** - Ready-for-use frontend display components
 - **Express** - Backend development
 - **EJS** - Website display rendering
 - **Mongoose** - MongoDB connection
